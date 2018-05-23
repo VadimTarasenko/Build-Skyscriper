@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ce14000c99c13e34a9c611357b282af9
+timeCreated: 1516979282
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vermin Vibes Redux(RUS BY LYAJK
+  fontNames:
+  - Vermin Vibes Redux(RUS BY LYAJK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
